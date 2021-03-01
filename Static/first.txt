@@ -4,3 +4,7 @@ Now i am going to make a second commit hope to see you there
 
 
 Modify by Rakesh
+
+before git diff
+
+after git diff
