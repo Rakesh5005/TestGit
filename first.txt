@@ -1,6 +1,1 @@
-This is Vesrion 1 Of My first Git Project
-
-Now i am going to make a second commit hope to see you there
-
-
-Modify by Rakesh
+Hi all
